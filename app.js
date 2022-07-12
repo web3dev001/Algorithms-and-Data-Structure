@@ -11,4 +11,5 @@ function isPowerTwo(number) {
   return true;
 }
 
+console.log(isPowerTwo(5));
 console.log(isPowerTwo(10));
